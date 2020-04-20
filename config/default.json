@@ -1,0 +1,11 @@
+{
+  "name" : "my express server",
+  "port" : 9898,
+  "database" : {
+    "postgresql" : {
+      "host" : "127.0.0.1",
+      "user" : "root",
+      "password" : "root"
+    }
+  }
+}
